@@ -120,7 +120,8 @@ h1 {
   border-radius: 5px;
   border: none;
   cursor: pointer;
-  background: #007bff;  /* default buttons (Reading/Listening) */
+  background: #007bff;
+  /* default buttons (Reading/Listening) */
   color: #fff;
 }
 
@@ -130,11 +131,12 @@ h1 {
 
 /* Close button overrides */
 #choicePopup #closePopup {
-  background: #db857c;
-  color: #fff;           /* ensure text is visible */
+  background: #d26357;
+  color: #fff;
+  /* ensure text is visible */
   margin-top: 0.5rem;
 }
 
 #choicePopup #closePopup:hover {
-  background: #ed8d6d;
+  background: #db857c;
 }

@@ -473,7 +473,7 @@ footer {
 
 footer p {
     color: #7f8c8d;        /* Matches your header subtitle color */
-    font-size: 1.2em;      /* Slightly smaller than main text for hierarchy */
+    font-size: 1.3em;      /* Slightly smaller than main text for hierarchy */
     font-weight: 500;
     line-height: 1.5;
 }

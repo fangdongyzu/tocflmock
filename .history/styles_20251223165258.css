@@ -461,3 +461,21 @@ html {
     -webkit-text-size-adjust: 100%;
     text-size-adjust: 100%;
 }
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    margin-top: 40px;      /* Creates space between content and footer */
+    margin-bottom: 20px;
+    padding: 25px 20px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+footer p {
+    color: #7f8c8d;        /* Matches your header subtitle color */
+    font-size: 1.1em;      /* Slightly smaller than main text for hierarchy */
+    font-weight: 500;
+    line-height: 1.5;
+}
